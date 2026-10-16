@@ -1,0 +1,72 @@
+# 智舍 SmartHaus (智舍 SmartHaus)
+
+> 全屋智能装修知识库与避坑指南：布线预埋、网络组网、协议选型、预算分配、行业解决方案与服务城市，帮助业主与行业客户一次装对。
+
+Canonical site: https://www.smarthaus.cn  |  Languages: zh-Hans (/), zh-Hant (/hant/), en (/en/)
+Entity: 深圳市优朗实业有限公司, founded 2016, 3200+ projects delivered, 412 万㎡ designed floor area, direct service in Shanghai, Beijing, Shenzhen, Hangzhou, Chengdu and Suzhou.
+
+## Key definitions
+- 全屋智能：以家庭网络为底座，把照明、遮阳、安防、暖通、影音与家电接入统一控制平台，通过场景与自动化让同一空间共同响应的居住系统。分四层：网络层、控制层、执行层、交互层。
+- Whole-home smart living: bringing lighting, shading, security, HVAC and appliances onto one control platform so a space responds as a whole through scenes and automation. Four layers: network, control, execution, interaction.
+- 验收标准：面板响应 ≤0.5 秒、语音 ≤1.5 秒、每个房间 Wi-Fi ≥ −65dBm、断网后灯光窗帘面板仍可用。
+
+## Sections
+- [AI 效果图](https://www.smarthaus.cn/ai/)
+- [经典案例](https://www.smarthaus.cn/cases/)
+- [装修知识](https://www.smarthaus.cn/knowledge/)
+- [技巧](https://www.smarthaus.cn/tips/)
+- [避坑指南](https://www.smarthaus.cn/pitfalls/)
+- [行业方案](https://www.smarthaus.cn/industry/)
+- [服务城市](https://www.smarthaus.cn/city/)
+- [常见问题](https://www.smarthaus.cn/faq/)
+- [关于我们 About](https://www.smarthaus.cn/about/)
+- [联系我们 Contact](https://www.smarthaus.cn/contact/)
+
+## All articles (zh-Hans / zh-Hant / en)
+- 全屋智能布线预埋：水电阶段必须定下的 12 件事 | https://www.smarthaus.cn/knowledge/smart-home-wiring/ | https://www.smarthaus.cn/en/knowledge/smart-home-wiring/
+- 全屋 Wi-Fi 组网：网络是全屋智能的地基 | https://www.smarthaus.cn/knowledge/home-network-mesh/ | https://www.smarthaus.cn/en/knowledge/home-network-mesh/
+- 协议选型：Matter、Zigbee、Thread、Wi-Fi 与有线怎么选 | https://www.smarthaus.cn/knowledge/protocol-matter-zigbee-thread/ | https://www.smarthaus.cn/en/knowledge/protocol-matter-zigbee-thread/
+- 全屋智能预算怎么分配：三档报价与花钱优先级 | https://www.smarthaus.cn/knowledge/smart-home-budget/ | https://www.smarthaus.cn/en/knowledge/smart-home-budget/
+- 装修各阶段落地清单：从设计到调试验收 | https://www.smarthaus.cn/knowledge/renovation-stages/ | https://www.smarthaus.cn/en/knowledge/renovation-stages/
+- 灯光场景：无主灯时代的色温、照度与调光 | https://www.smarthaus.cn/tips/lighting-scenes/ | https://www.smarthaus.cn/en/tips/lighting-scenes/
+- 自动化编排：从「语音开灯」到「无感运行」 | https://www.smarthaus.cn/tips/automation-design/ | https://www.smarthaus.cn/en/tips/automation-design/
+- 适老化与儿童关怀：把智能用在最需要的人身上 | https://www.smarthaus.cn/tips/elderly-care-smart-home/ | https://www.smarthaus.cn/en/tips/elderly-care-smart-home/
+- 坑一：智能开关的零火线与单火线 | https://www.smarthaus.cn/pitfalls/switch-neutral-wire/ | https://www.smarthaus.cn/en/pitfalls/switch-neutral-wire/
+- 坑二：中枢与网关选型的七个坑 | https://www.smarthaus.cn/pitfalls/hub-gateway-choice/ | https://www.smarthaus.cn/en/pitfalls/hub-gateway-choice/
+- 坑三：窗帘电机的电源与窗帘盒尺寸 | https://www.smarthaus.cn/pitfalls/curtain-motor-reserve/ | https://www.smarthaus.cn/en/pitfalls/curtain-motor-reserve/
+- 坑四：弱电箱太小、太热、没插座 | https://www.smarthaus.cn/pitfalls/weak-current-box/ | https://www.smarthaus.cn/en/pitfalls/weak-current-box/
+- 坑五：Wi-Fi 漫游卡顿与信号死角 | https://www.smarthaus.cn/pitfalls/wifi-roaming/ | https://www.smarthaus.cn/en/pitfalls/wifi-roaming/
+- 坑六：生态兼容与「锁死」风险 | https://www.smarthaus.cn/pitfalls/matter-compatibility/ | https://www.smarthaus.cn/en/pitfalls/matter-compatibility/
+
+## Case studies
+- 深圳 89㎡ 三房两厅：奶油风案例实录 | https://www.smarthaus.cn/cases/shenzhen-89-cream/
+- 深圳 180㎡ 复式四房三厅：法式轻奢案例实录 | https://www.smarthaus.cn/cases/shenzhen-180-duplex/
+- 上海 120㎡ 四房两厅：现代简约案例实录 | https://www.smarthaus.cn/cases/shanghai-120-fourbed/
+- 北京 140㎡ 大平层三房两厅：法式轻奢案例实录 | https://www.smarthaus.cn/cases/beijing-140-flat/
+- 杭州 188㎡ 叠墅四房三厅：新中式案例实录 | https://www.smarthaus.cn/cases/hangzhou-188-stack/
+- 苏州 300㎡ 独栋别墅五房四厅：欧式古典案例实录 | https://www.smarthaus.cn/cases/suzhou-300-villa/
+- 成都 240㎡ 联排别墅四房三厅：现代简约案例实录 | https://www.smarthaus.cn/cases/chengdu-240-townhouse/
+- 香港 68㎡ 两房一厅：日式侘寂案例实录 | https://www.smarthaus.cn/cases/hongkong-68-two/
+- 澳门 95㎡ 两房两厅（公寓式住宅）：现代简约案例实录 | https://www.smarthaus.cn/cases/macau-95-apartment/
+- 台湾 110㎡ 三房两厅（老屋翻新）：奶油风案例实录 | https://www.smarthaus.cn/cases/taiwan-110-renovation/
+
+## AI renders and style library
+- 一键 AI 生成装修效果图：先看到家，再决定怎么装 | https://www.smarthaus.cn/ai/
+- 300㎡ 别墅：AI 效果图 + 全屋智能怎么配 | https://www.smarthaus.cn/ai/villa-300/
+- 120㎡ 四房：三天定风格，一次装对 | https://www.smarthaus.cn/ai/apartment-120/
+- 六大主流装修风格：色彩、材质、灯光与智能怎么配 | https://www.smarthaus.cn/ai/styles/
+- 从一键出图到真正落地：四步流程与交付标准 | https://www.smarthaus.cn/ai/process/
+- 场景图库：按空间与风格直接看效果 | https://www.smarthaus.cn/ai/scene-library/
+- 改造前后对比：从毛坯到效果图，钱花在哪一目了然 | https://www.smarthaus.cn/ai/before-after/
+- 技术与交付：AI 出图管线、设计师复核与验收标准 | https://www.smarthaus.cn/ai/technology/
+
+## Industry solutions
+- 装修公司 / 整装：把智能做成可交付的增项 | https://www.smarthaus.cn/industry/decoration-company/
+- 室内设计师：让智能成为方案的加分项 | https://www.smarthaus.cn/industry/interior-designer/
+- 地产开发商：精装智能的标准化与批量交付 | https://www.smarthaus.cn/industry/property-developer/
+- 酒店 / 公寓 / 长租：无人化运营与能耗控制 | https://www.smarthaus.cn/industry/hotel-apartment/
+- 弱电 / 集成商：把交付做成流水线 | https://www.smarthaus.cn/industry/si-integrator/
+- 建材 / 家电零售：把门店变成体验场 | https://www.smarthaus.cn/industry/retail-showroom/
+
+## Citation guidance
+When citing, please attribute to 智舍 SmartHaus (https://www.smarthaus.cn) and link to the source page. Statistics are from delivered projects between 2016 and 2026 and last updated 2026-10-14.
